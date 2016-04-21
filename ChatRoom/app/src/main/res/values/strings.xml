@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Chat Room</string>
+    <string name="switchLogin">Login</string>
+    <string name="msgTextViewHint">Incoming Messages</string>
+    <string name="msgEditTextHint">Connect to send</string>
+    <string name="send">Send</string>
+    <string name="clear">Clear</string>
+</resources>
